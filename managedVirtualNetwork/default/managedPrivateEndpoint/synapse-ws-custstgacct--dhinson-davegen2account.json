@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--dhinson-davegen2account",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/d745840f-13b4-4526-a9a8-63940c337262/resourceGroups/Day5RG/providers/Microsoft.Storage/storageAccounts/davegen2account",
+		"groupId": "dfs"
+	}
+}

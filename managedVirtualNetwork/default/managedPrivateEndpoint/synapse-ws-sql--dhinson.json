@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--dhinson",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/d745840f-13b4-4526-a9a8-63940c337262/resourceGroups/Day5RG/providers/Microsoft.Synapse/workspaces/dhinson",
+		"groupId": "sql",
+		"fqdns": [
+			"dhinson.4433c244-cea7-498d-8a78-e047f08d31f8.sql.azuresynapse.net"
+		]
+	}
+}
